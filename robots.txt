@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harrisburgwaterheaterco.com/sitemap.xml
